@@ -1,0 +1,13 @@
+# Installing the require NLP libraries
+
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+plotly
+nltk
+gensim
+spacy
+ipython
+bs4
